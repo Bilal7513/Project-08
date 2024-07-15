@@ -110,11 +110,11 @@ input[type='text']{
     border-radius: 10px;
 }
 
-.selected-meal-instuctions{
+.selected-meal-instructions{
     margin: 0;
     letter-spacing: 0.5px;
-    line-height: 1.5px;
-    text-align: justify;
+    line-height: 1.5;
+    text-align: justify !important;
 }
 
 .selected-meal-instructions ul{
